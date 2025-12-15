@@ -1,0 +1,13 @@
+C:\Users\danil\source\repos\PublishingApp\PublishingApp\bin\Debug\PublishingApp.exe.config
+C:\Users\danil\source\repos\PublishingApp\PublishingApp\bin\Debug\PublishingApp.exe
+C:\Users\danil\source\repos\PublishingApp\PublishingApp\bin\Debug\PublishingApp.pdb
+C:\Users\danil\source\repos\PublishingApp\PublishingApp\obj\Debug\PublishingApp.csproj.AssemblyReference.cache
+C:\Users\danil\source\repos\PublishingApp\PublishingApp\obj\Debug\PublishingApp.Properties.Resources.resources
+C:\Users\danil\source\repos\PublishingApp\PublishingApp\obj\Debug\PublishingApp.csproj.GenerateResource.cache
+C:\Users\danil\source\repos\PublishingApp\PublishingApp\obj\Debug\PublishingApp.csproj.CoreCompileInputs.cache
+C:\Users\danil\source\repos\PublishingApp\PublishingApp\obj\Debug\PublishingApp.exe
+C:\Users\danil\source\repos\PublishingApp\PublishingApp\obj\Debug\PublishingApp.pdb
+C:\Users\danil\source\repos\PublishingApp\PublishingApp\obj\Debug\PublishingApp.MainForm.resources
+C:\Users\danil\source\repos\PublishingApp\PublishingApp\obj\Debug\PublishingApp.FormOrder.resources
+C:\Users\danil\source\repos\PublishingApp\PublishingApp\obj\Debug\PublishingApp.FormReceipt.resources
+C:\Users\danil\source\repos\PublishingApp\PublishingApp\obj\Debug\PublishingApp.exe.config
